@@ -1,0 +1,28 @@
+"use strict";(self.webpackChunklango_ui=self.webpackChunklango_ui||[]).push([[858],{92887:function(f,c,e){var i;e.r(c),e.d(c,{demos:function(){return h}});var v=e(15009),s=e.n(v),A=e(99289),m=e.n(A),p=e(67294),L=e(83372),I=e(83615),h={"langoavatar-demo-0":{component:p.memo(p.lazy(m()(s()().mark(function u(){var o,t,r,l,d;return s()().wrap(function(a){for(;;)switch(a.prev=a.next){case 0:return a.next=2,Promise.resolve().then(e.t.bind(e,67294,19));case 2:return o=a.sent,t=o.default,a.next=6,Promise.resolve().then(e.bind(e,83615));case 6:return r=a.sent,l=r.LangoAvatar,d=function(){return t.createElement(t.Fragment,null,t.createElement(l,{size:40}))},a.abrupt("return",{default:d});case 10:case"end":return a.stop()}},u)})))),asset:{type:"BLOCK",id:"langoavatar-demo-0",refAtomIds:["LangoAvatar"],dependencies:{"index.tsx":{type:"FILE",value:`import React, { useState } from 'react'
+import { LangoAvatar } from 'lango-ui'
+
+const App: React.FC = () => (
+  <>
+    <LangoAvatar size={40} />
+  </>
+)
+
+export default App`},react:{type:"NPM",value:"18.3.1"},"lango-ui":{type:"NPM",value:"0.0.1"}},entry:"index.tsx"},context:{react:i||(i=e.t(p,2)),"lango-ui":I},renderOpts:{compile:function(){var u=m()(s()().mark(function t(){var r,l=arguments;return s()().wrap(function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,e.e(335).then(e.bind(e,37335));case 2:return n.abrupt("return",(r=n.sent).default.apply(r,l));case 3:case"end":return n.stop()}},t)}));function o(){return u.apply(this,arguments)}return o}()}},"langoavatar-demo-1":{component:p.memo(p.lazy(m()(s()().mark(function u(){var o,t,r,l,d;return s()().wrap(function(a){for(;;)switch(a.prev=a.next){case 0:return a.next=2,Promise.resolve().then(e.t.bind(e,67294,19));case 2:return o=a.sent,t=o.default,a.next=6,Promise.resolve().then(e.bind(e,83615));case 6:return r=a.sent,l=r.LangoAvatar,d=function(){return t.createElement(t.Fragment,null,t.createElement(l,{size:40},"\u6D4B\u8BD5"))},a.abrupt("return",{default:d});case 10:case"end":return a.stop()}},u)})))),asset:{type:"BLOCK",id:"langoavatar-demo-1",refAtomIds:["LangoAvatar"],dependencies:{"index.tsx":{type:"FILE",value:`import React, { useState } from 'react'
+import { LangoAvatar } from 'lango-ui'
+
+const App: React.FC = () => (
+  <>
+    <LangoAvatar size={40}>\u6D4B\u8BD5</LangoAvatar>
+  </>
+)
+
+export default App`},react:{type:"NPM",value:"18.3.1"},"lango-ui":{type:"NPM",value:"0.0.1"}},entry:"index.tsx"},context:{react:i||(i=e.t(p,2)),"lango-ui":I},renderOpts:{compile:function(){var u=m()(s()().mark(function t(){var r,l=arguments;return s()().wrap(function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,e.e(335).then(e.bind(e,37335));case 2:return n.abrupt("return",(r=n.sent).default.apply(r,l));case 3:case"end":return n.stop()}},t)}));function o(){return u.apply(this,arguments)}return o}()}},"langoavatar-demo-2":{component:p.memo(p.lazy(m()(s()().mark(function u(){var o,t,r,l,d;return s()().wrap(function(a){for(;;)switch(a.prev=a.next){case 0:return a.next=2,Promise.resolve().then(e.t.bind(e,67294,19));case 2:return o=a.sent,t=o.default,a.next=6,Promise.resolve().then(e.bind(e,83615));case 6:return r=a.sent,l=r.LangoAvatar,d=function(){return t.createElement(t.Fragment,null,t.createElement(l,{size:"20%"}))},a.abrupt("return",{default:d});case 10:case"end":return a.stop()}},u)})))),asset:{type:"BLOCK",id:"langoavatar-demo-2",refAtomIds:["LangoAvatar"],dependencies:{"index.tsx":{type:"FILE",value:`import React, { useState } from 'react'
+import { LangoAvatar } from 'lango-ui'
+
+const App: React.FC = () => (
+  <>
+    <LangoAvatar size={'20%'}></LangoAvatar>
+  </>
+)
+
+export default App`},react:{type:"NPM",value:"18.3.1"},"lango-ui":{type:"NPM",value:"0.0.1"}},entry:"index.tsx"},context:{react:i||(i=e.t(p,2)),"lango-ui":I},renderOpts:{compile:function(){var u=m()(s()().mark(function t(){var r,l=arguments;return s()().wrap(function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,e.e(335).then(e.bind(e,37335));case 2:return n.abrupt("return",(r=n.sent).default.apply(r,l));case 3:case"end":return n.stop()}},t)}));function o(){return u.apply(this,arguments)}return o}()}}}},5585:function(f,c,e){e.r(c),e.d(c,{texts:function(){return v}});var i=e(83372);const v=[{value:"\u81EA\u5B9A\u4E49\u5934\u50CF\u5904\u7406",paraId:0,tocIndex:0},{value:"\u6700\u57FA\u672C\u7528\u6CD5\uFF0C\u70B9\u51FB\u4E0A\u4F20\uFF0C\u4E00\u6B21\u9009\u62E9\u4E00\u4E2A\u6587\u4EF6\u3002",paraId:1,tocIndex:1},{value:"\u53C2\u6570\u540D",paraId:2,tocIndex:5},{value:"\u53C2\u6570\u503C",paraId:2,tocIndex:5},{value:"\u8BF4\u660E",paraId:2,tocIndex:5},{value:"\u9ED8\u8BA4\u503C",paraId:2,tocIndex:5},{value:"url",paraId:2,tocIndex:5},{value:"string",paraId:2,tocIndex:5},{value:"\u81EA\u5B9A\u4E49\u663E\u793A\u56FE\u7247\uFF0C\u4E0D\u4F20\u4E3A\u9ED8\u8BA4\u56FE\u6807",paraId:2,tocIndex:5},{value:"-",paraId:2,tocIndex:5},{value:"defaultImage",paraId:2,tocIndex:5},{value:"string",paraId:2,tocIndex:5},{value:"\u81EA\u5B9A\u4E49\u9ED8\u8BA4\u56FE\u7247\u5730\u5740",paraId:2,tocIndex:5},{value:"-",paraId:2,tocIndex:5},{value:"size",paraId:2,tocIndex:5},{value:"string/number",paraId:2,tocIndex:5},{value:'\u663E\u793A\u5C3A\u5BF8 \u4F20\u5165\u6570\u5B57\u6216\u5E26px\u5355\u4F4D\u7684\u50CF\u7D20\u503C, \u6216\u8005"%"',paraId:2,tocIndex:5},{value:"40",paraId:2,tocIndex:5},{value:"bgColor",paraId:2,tocIndex:5},{value:"string",paraId:2,tocIndex:5},{value:"\u9ED8\u8BA4\u663E\u793A\u7684\u80CC\u666F\u8272",paraId:2,tocIndex:5},{value:"'#eeeeee'",paraId:2,tocIndex:5},{value:"shape",paraId:2,tocIndex:5},{value:"string",paraId:2,tocIndex:5},{value:'\u663E\u793A\u7684\u6837\u5F0F, "circle" or "square"',paraId:2,tocIndex:5},{value:'"circle"',paraId:2,tocIndex:5}]}}]);

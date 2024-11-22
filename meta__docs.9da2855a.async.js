@@ -1,0 +1,15 @@
+"use strict";(self.webpackChunklango_ui=self.webpackChunklango_ui||[]).push([[904],{86269:function(r,e,a){a.r(e),a.d(e,{demos:function(){return d}});var o=a(67294),t=a(24862),d={}},96966:function(r,e,a){a.r(e),a.d(e,{demos:function(){return v}});var o=a(15009),t=a.n(o),d=a(99289),i=a.n(d),u=a(67294),g=a(53218),c=a(83615),v={"docs-guide-demo-0":{component:u.memo(u.lazy(i()(t()().mark(function p(){var _,l,s,m;return t()().wrap(function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,Promise.resolve().then(a.bind(a,83615));case 2:return _=n.sent,l=_.LangoSpace,s=_.LangoAvatar,m=function(){return u.createElement(l,{size:"middle"},u.createElement(s,{size:40},"\u5934\u50CF1"),u.createElement(s,{size:40},"\u5934\u50CF2"))},n.abrupt("return",{default:m});case 7:case"end":return n.stop()}},p)})))),asset:{type:"BLOCK",id:"docs-guide-demo-0",refAtomIds:[],dependencies:{"index.tsx":{type:"FILE",value:`import { LangoSpace, LangoAvatar } from "lango-ui";
+
+const App = () => {
+	return (
+		<LangoSpace size={"middle"}>
+			<LangoAvatar size={40}>\u5934\u50CF1</LangoAvatar>
+			<LangoAvatar size={40}>\u5934\u50CF2</LangoAvatar>
+		</LangoSpace>
+	)
+}
+
+export default App`},"lango-ui":{type:"NPM",value:"0.0.1"}},entry:"index.tsx"},context:{"lango-ui":c},renderOpts:{compile:function(){var p=i()(t()().mark(function l(){var s,m=arguments;return t()().wrap(function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,a.e(335).then(a.bind(a,37335));case 2:return n.abrupt("return",(s=n.sent).default.apply(s,m));case 3:case"end":return n.stop()}},l)}));function _(){return p.apply(this,arguments)}return _}()}}}},85316:function(r,e,a){a.r(e),a.d(e,{demos:function(){return d}});var o=a(67294),t=a(85285),d={}},43212:function(r,e,a){a.r(e),a.d(e,{texts:function(){return t}});var o=a(24862);const t=[{value:"\u76EE\u524D\u5DF2\u52A0\u5165\u5982\u4E0B\u7EC4\u4EF6",paraId:0},{value:"LangoAvatar",paraId:1},{value:"\u81EA\u5B9A\u4E49\u5934\u50CF\u7EC4\u4EF6",paraId:2},{value:"LangoBadge",paraId:3},{value:"\u81EA\u5B9A\u4E49\u5FBD\u6807\u7EC4\u4EF6",paraId:4},{value:"LangoSpace",paraId:5},{value:"\u81EA\u5B9A\u4E49\u95F4\u9694\u7EC4\u4EF6",paraId:6},{value:"LangoFilter",paraId:7},{value:"\u81EA\u5B9A\u4E49\u5757\u7EA7\u7B5B\u9009\u7EC4\u4EF6",paraId:8},{value:"LangoVideo",paraId:9},{value:"\u57FA\u4E8Evideojs\u5C01\u88C5\u64AD\u653E\u5668",paraId:10},{value:"LangoMap",paraId:11},{value:"\u57FA\u4E8E\u5929\u5730\u56FE\u5C01\u88C5\u5730\u56FE\u7EC4\u4EF6",paraId:12},{value:"HikPlayer",paraId:13},{value:"\u57FA\u4E8E\u6D77\u5EB7\u63D2\u4EF6\u5C01\u88C5\u7EC4\u4EF6",paraId:14},{value:"DhPlayer",paraId:15},{value:"\u57FA\u4E8E\u5927\u534E\u63D2\u4EF6\u5C01\u88C5\u7EC4\u4EF6",paraId:16}]},20555:function(r,e,a){a.r(e),a.d(e,{texts:function(){return t}});var o=a(53218);const t=[{value:`npm install lango-ui
+`,paraId:0},{value:`yarn add lango-ui
+`,paraId:1},{value:`pnpm add lango-ui
+`,paraId:2},{value:"\u5177\u4F53\u4F7F\u7528\u53CA\u53C2\u6570\u8BF7\u67E5\u770B\u6587\u6863\u8BF4\u660E",paraId:3,tocIndex:1}]},4516:function(r,e,a){a.r(e),a.d(e,{texts:function(){return t}});var o=a(85285);const t=[]}}]);
